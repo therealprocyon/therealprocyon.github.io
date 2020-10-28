@@ -9,6 +9,7 @@ twitter_username: therealprocyon
 github_username:  therealprocyon
 permalink: '/:year/:month/:day/:title/'
 timezone: 'Europe/Amsterdam'
+excerpt-seperator: <!--more-->
 
 # Build settings
 theme: minima
