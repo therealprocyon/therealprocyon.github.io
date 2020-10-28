@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+title: TheRealProcyon's bits and bytes
+email: cc.oosting@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+An awesome blog about security, computers, infosec, and more.
+Here TheRealProcyon will keep her goals and more and reflect on them.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: therealprocyon
+github_username:  therealprocyon
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
