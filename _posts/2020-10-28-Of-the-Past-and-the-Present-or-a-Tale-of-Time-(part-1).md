@@ -2,6 +2,7 @@ layout: page
 title: "Of the past and the Present or a Tale of Time (part 1)"
 date: YYYY-MM-DD hh:mm:ss -0000
 categories: experience studying infosec
+tags: computing studying infosec programming files BASIC security xss
 
 **lorem ipsum dolor sit amet**
 
