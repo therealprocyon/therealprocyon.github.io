@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: therealprocyon
 github_username:  therealprocyon
 permalink: /:year/:month/:day/:title/
-timezone: Europe/Amsterdam
+timezone: 'Europe/Amsterdam'
 
 # Build settings
 theme: minima
