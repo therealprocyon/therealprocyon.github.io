@@ -6,4 +6,4 @@ categories: "[experience, studying, infosec]"
 tags: "[computing, studying, infosec, programming, files, BASIC, security, C, xss]"
 ---
 
-[bla](file:///)
+[bla](file:///data/)
